@@ -72,4 +72,10 @@ section iframe {
   max-height: 100%;
 }
 
+@media (max-width: 570px) {
+  figure img {
+    width: 100%;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
